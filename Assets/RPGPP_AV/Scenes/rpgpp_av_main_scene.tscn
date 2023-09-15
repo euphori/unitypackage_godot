@@ -149,7 +149,7 @@
 [ext_resource type="PackedScene" uid="uid://b1ssuoojcxbiy" path="res://Assets/RPGPP_AV/Prefabs/Nature/Background/rpgpp_av_cloud_05.prefab.tscn" id="147_ajpr7"]
 [ext_resource type="Material" path="res://Assets/RPGPP_AV/Materials/rpgpp_av_clouds_b.mat.tres" id="148_vikbw"]
 [ext_resource type="PackedScene" uid="uid://dkdk8w6wd8bmj" path="res://Assets/RPGPP_AV/Models/Nature/Background/rpgpp_av_hill_background_01.gltf" id="149_pbg4a"]
-[ext_resource type="PackedScene" uid="uid://bdjm1tuqvyaly" path="res://Assets/RPGPP_AV/Models/Nature/Background/rpgpp_av_hill_background_02.gltf" id="150_lh22j"]
+[ext_resource type="PackedScene" uid="uid://bdjm1tuqvyaly" path="res://Assets/RPGPP_AV/Models/Nature/Background/rpgpp_av_sky_01.gltf" id="150_lh22j"]
 
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_1yoyo"]
 resource_name = "Default-Skybox"

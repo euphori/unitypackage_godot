@@ -42,7 +42,7 @@ layout_mode = 2
 layout_mode = 2
 
 [node name="SubViewport" parent="MarginContainer/HSplitContainer/VSplitContainer/Viewport" index="0"]
-size = Vector2i(1296, 780)
+size = Vector2i(100, 100)
 
 [node name="Console" type="RichTextLabel" parent="MarginContainer/HSplitContainer/VSplitContainer" node_paths=PackedStringArray("shortcut_context")]
 visible = false
