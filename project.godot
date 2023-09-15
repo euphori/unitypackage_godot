@@ -12,7 +12,7 @@ config_version=5
 
 config/name="UnityPackage for Godot"
 run/main_scene="res://unitypackage_godot/scenes/main.tscn"
-config/features=PackedStringArray("4.0", "Forward Plus")
+config/features=PackedStringArray("4.1", "Forward Plus")
 boot_splash/show_image=false
 config/icon="res://icon.svg"
 
@@ -26,6 +26,10 @@ gdscript/warnings/unused_private_class_variable=0
 window/size/viewport_width=1728
 window/size/viewport_height=800
 window/size/initial_position=Vector2i(300, 1900)
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/unidot/plugin.cfg")
 
 [network]
 
